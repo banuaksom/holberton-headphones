@@ -1,6 +1,5 @@
-<div style=”text-align:center”>
 # Implement a design from scratch
-</div>
+
 In this project, I'm expected to implement from scratch, without any library, a new web page.
 
 **Requirements:**
