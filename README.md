@@ -6,3 +6,4 @@ In this project, I'm expected to implement from scratch, without any library, a 
 * I'm not allowed to use Javascript
 
 The final result should look like that:
+![alt text](https://github.com/banuaksom/holberton-headphones/images/desktop.png?raw=true)
